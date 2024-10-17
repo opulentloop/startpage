@@ -55,7 +55,7 @@ const CARDS = [
   {
     name: "Mastodon",
     icon: "ri-mastodon-fill",
-    link: "https://fosstodon.org/@iamdebjitmandal",
+    link: "https://fosstodon.org/@tensortrove",
   },
   {
     name: "Reddit",

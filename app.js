@@ -20,12 +20,12 @@ const CARDS = [
   {
     name: "GitHub",
     icon: "ri-github-fill",
-    link: "https://github.com/debjit-mandal",
+    link: "https://github.com/tensorgenius",
   },
   {
     name: "Website",
     icon: "ri-global-fill",
-    link: "https://debjit-mandal.is-a.dev",
+    link: "https://tensorgenius.is-a.dev",
   },
   {
     name: "Gmail",
@@ -80,7 +80,7 @@ const CARDS = [
   {
     name: "GitHub Page",
     icon: "ri-github-fill",
-    link: "https://debjit-mandal.github.io",
+    link: "https://tensorgenius.github.io",
   },
 ];
 
